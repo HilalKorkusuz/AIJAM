@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
+    public AudioClip AudioClip;
     // Hareket Hýzý
     public float speed = 5f;
 
@@ -23,6 +25,7 @@ public class PlayerMovement : MonoBehaviour
     {
         // Karakterin Rigidbody2D bileþenini al
         rb = GetComponent<Rigidbody2D>();
+
     }
 
     // Update fonksiyonu

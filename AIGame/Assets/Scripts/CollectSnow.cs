@@ -62,6 +62,10 @@ public class CollectSnow : MonoBehaviour
         {
             SceneManager.LoadScene(3); //kazanma
         }
+        if (collision.CompareTag("Down"))
+        {
+            SceneManager.LoadScene(2); //kaybetme
+        }
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -70,10 +74,7 @@ public class CollectSnow : MonoBehaviour
             health = health - 50;
             heartText.text = health.ToString("");
         }
-        if (collision.collider.CompareTag("Down"))
-        {
-            SceneManager.LoadScene(2); //kaybetme
-        }
+
     }
     public void Update()
     {

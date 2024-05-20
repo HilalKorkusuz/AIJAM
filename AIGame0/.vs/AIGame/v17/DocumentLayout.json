@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AIGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|c:\\aigame\\assets\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|C:\\AIGame\\assets\\scripts\\collectsnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectsnow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|c:\\aigame\\assets\\scripts\\zamansayaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zamansayaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|C:\\AIGame\\assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|C:\\AIGame\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|C:\\AIGame\\assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|C:\\AIGame\\assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|C:\\AIGame\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DE4C16-934B-7D13-91BC-63EDD22E655D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectSnow.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Scripts\\CollectSnow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectSnow.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Scripts\\CollectSnow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectSnow.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:19:52.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Start.cs",
+              "RelativeDocumentMoniker": "Assets\\Start.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Start.cs",
+              "RelativeToolTip": "Assets\\Start.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:50:37.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZamanSayaci.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Scripts\\ZamanSayaci.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZamanSayaci.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Scripts\\ZamanSayaci.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZamanSayaci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:21.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Scripts\\Shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shooting.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Scripts\\Shooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shooting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:19.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:17.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealth.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:14.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyFollow.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Scripts\\EnemyFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFollow.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Scripts\\EnemyFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyFollow.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:12.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\AIGame\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\AIGame\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:40:09.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

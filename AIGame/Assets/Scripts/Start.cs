@@ -11,4 +11,24 @@ public class Start : MonoBehaviour
     {
         SceneManager.LoadScene(1); //baþlama
     }
+
+    public void Exitt()
+    {
+        Debug.Log("çýktýn");
+        Application.Quit();
+    }
+
+    public void Credit()
+    {
+        SceneManager.LoadScene(4); //baþlama
+    }
+
+    public void Restartt()
+    {
+        SceneManager.LoadScene(1); //yediden basla
+    }
+    public void Menuu()
+    {
+        SceneManager.LoadScene(0); //ana menü
+    }
 }
